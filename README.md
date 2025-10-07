@@ -20,7 +20,7 @@ Sistema desarrollado en PHP con Programación Orientada a Objetos para la gesti�
 
 ## 📁 Estructura del Proyecto
 ```
-bibliotech/
+biblioteca/
 ├── src/
 │ └── models/
 │ ├── Libro.php # Modelo de libro con métodos específicos
