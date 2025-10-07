@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-// Incluir las clases CON NUEVAS RUTAS
+// Incluir las clases 
 require_once '../src/models/Libro.php';
 require_once '../src/models/Biblioteca.php';
 
