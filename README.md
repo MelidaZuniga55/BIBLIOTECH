@@ -18,7 +18,7 @@ Sistema desarrollado en PHP con Programación Orientada a Objetos para la gesti�
 - **Sesiones PHP** para persistencia de datos
 - **Git** para control de versiones
 
-## 📁 Estructura del Proyecto
+''## 📁 Estructura del Proyecto
 bibliotech/
 ├── src/
 │ └── models/
@@ -28,6 +28,7 @@ bibliotech/
 │ ├── index.php # Controlador principal y vistas
 │ └── estilo.css # Estilos CSS modernos y responsive
 └── README.md
+''
 
 ## 🏗️ Arquitectura POO
 
