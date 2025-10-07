@@ -1,9 +1,9 @@
 <?php
 session_start();
 
-// Incluir las clases 
-require_once 'Libro.php';
-require_once 'Biblioteca.php';
+// Incluir las clases CON NUEVAS RUTAS
+require_once '../src/models/Libro.php';
+require_once '../src/models/Biblioteca.php';
 
 if (!isset($_SESSION['biblioteca_data'])) {
     $_SESSION['biblioteca_data'] = [
