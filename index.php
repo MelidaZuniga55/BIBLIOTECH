@@ -5,7 +5,6 @@ session_start();
 require_once 'Libro.php';
 require_once 'Biblioteca.php';
 
-// Solución definitiva: No guardar objetos en sesión, guardar datos y reconstruir
 if (!isset($_SESSION['biblioteca_data'])) {
     $_SESSION['biblioteca_data'] = [
         'libros' => [],

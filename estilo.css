@@ -338,7 +338,6 @@ tr:hover {
     border-left-color: #17a2b8;
 }
 
-/* ===== GRUPOS DE BOTONES COMPACTOS ===== */
 .btn-group {
     display: flex;
     gap: 8px;
